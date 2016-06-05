@@ -1,8 +1,9 @@
 // Copyright 2010-2016 i-designer.net.  All rights reserved.
 // This script will generator file with guide for bootstrap
 // Written by Nguyen Nhu Tuan
-// Created at: 2015-05-06
-// Updated at: 2015-05-06
+// Version: 1.0.0
+// Created at: 2015-06-05
+// Updated at: 2015-06-05
 // Email: tuanquynh0508@gmail.com
 // Using function guideLine and clearGuides of Patrick. Thanks Patrick !. Ref: http://www.ps-scripts.com/bb/viewtopic.php?t=1775&highlight=&sid=9980aca4225b16adf2b0543df74aa975
 // Using function StrToIntWithDefault of Adobe Systems. Thanks Adobe Systems !.
